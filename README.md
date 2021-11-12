@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Robotics, Develops device
 - 📫 How to reach me https://freelancehunt.com/freelancer/trojninalex.html  
+- 🏗️ Portfolio https://github.com/trojninalex/portfolio
 
 <meta name='freelancehunt' content='8e60e695ea9d14b'>
 
