@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @trojninalex
 - 👀 I’m interested in Operating System, AI, Microelectornics
-- 🌱 I’m currently learning C++
+- 🌱 Programming lang: Asm(Pic, AVR), C/C++(Pic, AVR, STM32, x86_64)
+- 📱 OS: Linux, Windows, Firmware (MCU)
 - 💞️ I’m looking to collaborate on Robotics, Develops device
 - 📫 How to reach me https://freelancehunt.com/freelancer/trojninalex.html  
 - 🏗️ Portfolio https://github.com/trojninalex/portfolio
