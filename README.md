@@ -3,7 +3,7 @@
 - 🌱 Programming lang: Asm(Pic, AVR), C/C++(Pic, AVR, STM32, x86_64)
 - 📱 OS: Linux, Windows, Firmware (MCU)
 - 💞️ I’m looking to collaborate on Robotics, Develops device
-- 📫 How to reach me https://freelancehunt.com/freelancer/trojninalex.html  
+- 📫 How to reach me dev@trojnin.ru  
 - 🏗️ Portfolio https://github.com/trojninalex/portfolio
 
 <meta name='freelancehunt' content='8e60e695ea9d14b'>
